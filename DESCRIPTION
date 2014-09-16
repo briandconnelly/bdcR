@@ -15,7 +15,8 @@ NeedsCompilation: no
 VignetteBuilder: knitr
 Depends:
     R (>= 3.0.0),
-Suggests:
+Imports:
+    assertthat,
     devtools,
     dplyr,
     ggplot2,
@@ -29,5 +30,6 @@ Suggests:
     pushoverr,
     roxygen2,
     stringr,
+    testthat,
     tidyr,
     xtable

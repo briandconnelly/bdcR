@@ -14,7 +14,7 @@ represented as RGB hex triplets
 
 \code{colorblind_friendly_grey} returns a list of colorblind-friendly colors
 represented as RGB hex triplets. These colors are the same as those returned
-by \code{colorblind_friendly}, but black is replaced with a grey.
+by \code{colorblind_friendly}, but with grey used instead of black.
 }
 \note{
 Source: \url{http://jfly.iam.u-tokyo.ac.jp/color/image/pallete.jpg}

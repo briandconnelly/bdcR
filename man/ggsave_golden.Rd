@@ -6,7 +6,7 @@
 ggsave_golden(filename, ...)
 }
 \description{
-\code{ggsave_golden} uses \code{\link{ggsave}} to save a plot whose
-proportions follow the golden ratio (wide).
+\code{ggsave_golden} is a wrapper for \code{\link{ggsave}} that saves a
+ggplot to a file with proportions equal to the golden ratio (wide).
 }
 

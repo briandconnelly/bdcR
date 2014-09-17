@@ -4,12 +4,13 @@
 #' golden ratio (horizontally).
 #' 
 #' @export
-#' @param plot A ggplot2 plot object
+#' @param plot A ggplot2 plot object. By defauly, the last plot displayed is
+#' used.
 #' @examples
 #' p <- ggplot(mtcars, aes(x=cyl, y=mpg*44)) +
 #'     geom_point(shape=1)
-#' rescale_golden(p)
-rescale_golden <- function(plot)
+#' rescale_golden()
+rescale_golden <- function(plot=last_plot())
 {
     gr <- (1 + sqrt(5))/2
     built <- ggplot_build(plot)

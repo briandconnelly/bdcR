@@ -3,10 +3,11 @@
 \alias{rescale_golden}
 \title{Rescale a ggplot2 plot so that axes follow golden ratio}
 \usage{
-rescale_golden(plot)
+rescale_golden(plot = last_plot())
 }
 \arguments{
-\item{plot}{A ggplot2 plot object}
+\item{plot}{A ggplot2 plot object. By defauly, the last plot displayed is
+used.}
 }
 \description{
 \code{rescale_golden} rescales the given ggplot2 so that the axes follow the
@@ -15,6 +16,6 @@ golden ratio (horizontally).
 \examples{
 p <- ggplot(mtcars, aes(x=cyl, y=mpg*44)) +
     geom_point(shape=1)
-rescale_golden(p)
+rescale_golden()
 }
 

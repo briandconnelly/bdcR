@@ -14,7 +14,7 @@ used.}
 golden ratio (horizontally).
 }
 \examples{
-p <- ggplot(mtcars, aes(x=cyl, y=mpg*44)) +
+p <- ggplot(mtcars, aes(x=cyl, y=mpg)) +
     geom_point(shape=1)
 rescale_golden()
 }

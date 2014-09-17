@@ -5,6 +5,7 @@ This repository is intended to house my personal R environment with the goal of 
 ## Packages
 
 * [assertthat](http://cran.r-project.org/web/packages/assertthat/index.html)
+* [beepr](http://cran.r-project.org/web/packages/beepr/index.html)
 * [devtools](http://cran.r-project.org/web/packages/devtools/index.html)
 * [dplyr](http://cran.r-project.org/web/packages/dplyr/index.html)
 * [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html)

@@ -7,7 +7,7 @@ Authors@R: c(person(family="Connelly", given="Brian", email="bdc@bconnelly.net",
                     role=c("aut", "cre")))
 Maintainer: Brian Connelly <bdc@bconnelly.net>
 Description: This package helps me duplicate my R environment on other machines
-License: BSD_2_clause + file LICENSE
+License: MIT + file LICENSE
 URL: https://github.com/briandconnelly/bdcR
 BugReports: https://github.com/briandconnelly/bdcR/issues
 ByteCompile: no

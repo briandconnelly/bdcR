@@ -1,4 +1,4 @@
-Package: bdc2
+Package: bdcR
 Type: Package
 Title: My personal R environment
 Version: 0.1.0

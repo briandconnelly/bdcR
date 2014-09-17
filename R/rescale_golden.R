@@ -5,6 +5,10 @@
 #' 
 #' @export
 #' @param plot A ggplot2 plot object
+#' @examples
+#' p <- ggplot(mtcars, aes(x=cyl, y=mpg*44)) +
+#'     geom_point(shape=1)
+#' rescale_golden(p)
 rescale_golden <- function(plot)
 {
     gr <- (1 + sqrt(5))/2

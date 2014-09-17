@@ -12,4 +12,9 @@ rescale_golden(plot)
 \code{rescale_golden} rescales the given ggplot2 so that the axes follow the
 golden ratio (horizontally).
 }
+\examples{
+p <- ggplot(mtcars, aes(x=cyl, y=mpg*44)) +
+    geom_point(shape=1)
+rescale_golden(p)
+}
 

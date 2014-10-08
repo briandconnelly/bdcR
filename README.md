@@ -12,6 +12,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [ggplot2bdc](https://github.com/briandconnelly/ggplot2bdc)
 * [Hmisc](http://cran.r-project.org/web/packages/Hmisc/index.html)
 * [httr](http://cran.r-project.org/web/packages/httr/index.html)
+* [igraph](http://cran.r-project.org/web/packages/igraph/index.html)
 * [jsonlite](http://cran.r-project.org/web/packages/jsonlite/index.html)
 * [knitr](http://cran.r-project.org/web/packages/knitr/index.html)
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html)

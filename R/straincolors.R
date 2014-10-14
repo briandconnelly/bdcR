@@ -7,6 +7,7 @@
 #' 
 straincolors <- function()
 {
-    return(c('PA01'='#5086FF', 'lasBaprA'='#F35E5A', 'I-lasBaprA'='#000000',
-             'lasB'='orange', 'I-lasB'='brown', 'lasRrhlR'='#35B12B'))
+    return(c('PA01'='#5086FF', 'PAO1'='#5086FF', 'lasBaprA'='#F35E5A',
+             'I-lasBaprA'='#000000', 'lasB'='orange', 'I-lasB'='brown',
+             'lasRrhlR'='#35B12B'))
 }

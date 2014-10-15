@@ -19,6 +19,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [magrittr](http://cran.r-project.org/web/packages/magrittr/index.html)
 * [packrat](http://cran.r-project.org/web/packages/packrat/index.html)
 * [pushoverr](http://cran.r-project.org/web/packages/pushoverr/index.html)
+* [rex](http://cran.r-project.org/web/packages/rex/index.html)
 * [rmarkdown](https://github.com/rstudio/rmarkdown)
 * [roxygen2](http://cran.r-project.org/web/packages/roxygen2/index.html)
 * [stringr](http://cran.r-project.org/web/packages/stringr/index.html)

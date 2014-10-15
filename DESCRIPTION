@@ -30,6 +30,7 @@ Imports:
     magrittr,
     packrat,
     pushoverr,
+    rex,
     roxygen2,
     stringr,
     testthat,

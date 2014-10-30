@@ -18,6 +18,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html)
 * [magrittr](http://cran.r-project.org/web/packages/magrittr/index.html)
 * [packrat](http://cran.r-project.org/web/packages/packrat/index.html)
+* [pander](http://cran.r-project.org/web/packages/pander/index.html)
 * [pushoverr](http://cran.r-project.org/web/packages/pushoverr/index.html)
 * [rex](http://cran.r-project.org/web/packages/rex/index.html)
 * [rmarkdown](https://github.com/rstudio/rmarkdown)

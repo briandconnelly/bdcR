@@ -29,6 +29,7 @@ Imports:
     lubridate,
     magrittr,
     packrat,
+    pander,
     pushoverr,
     rex,
     roxygen2,

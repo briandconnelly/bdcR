@@ -8,6 +8,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [beepr](http://cran.r-project.org/web/packages/beepr/index.html)
 * [devtools](http://cran.r-project.org/web/packages/devtools/index.html)
 * [dplyr](http://cran.r-project.org/web/packages/dplyr/index.html)
+* [ensurer](http://cran.r-project.org/web/packages/ensurer/)
 * [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html)
 * [ggplot2bdc](https://github.com/briandconnelly/ggplot2bdc)
 * [Hmisc](http://cran.r-project.org/web/packages/Hmisc/index.html)

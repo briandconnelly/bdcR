@@ -1,8 +1,8 @@
 Package: bdcR
 Type: Package
 Title: My personal R environment
-Version: 0.1.2
-Date: 2014-10-14
+Version: 0.1.3
+Date: 2014-12-01
 Authors@R: c(person(family="Connelly", given="Brian", email="bdc@bconnelly.net",
                     role=c("aut", "cre")))
 Maintainer: Brian Connelly <bdc@bconnelly.net>
@@ -20,6 +20,7 @@ Imports:
     beepr,
     devtools,
     dplyr,
+    ensurer,
     ggplot2,
     Hmisc,
     httr,

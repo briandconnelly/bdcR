@@ -21,6 +21,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [packrat](http://cran.r-project.org/web/packages/packrat/index.html)
 * [pander](http://cran.r-project.org/web/packages/pander/index.html)
 * [pushoverr](http://cran.r-project.org/web/packages/pushoverr/index.html)
+* [RColorBrewer](http://cran.r-project.org/web/packages/RColorBrewer/index.html)
 * [rex](http://cran.r-project.org/web/packages/rex/index.html)
 * [rmarkdown](https://github.com/rstudio/rmarkdown)
 * [roxygen2](http://cran.r-project.org/web/packages/roxygen2/index.html)

@@ -32,6 +32,7 @@ Imports:
     packrat,
     pander,
     pushoverr,
+    RColorBrewer,
     rex,
     roxygen2,
     stringr,

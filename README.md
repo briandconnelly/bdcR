@@ -11,6 +11,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [ensurer](http://cran.r-project.org/web/packages/ensurer/)
 * [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html)
 * [ggplot2bdc](https://github.com/briandconnelly/ggplot2bdc)
+* [ggvis](http://cran.r-project.org/web/packages/ggvis/index.html)
 * [Hmisc](http://cran.r-project.org/web/packages/Hmisc/index.html)
 * [httr](http://cran.r-project.org/web/packages/httr/index.html)
 * [igraph](http://cran.r-project.org/web/packages/igraph/index.html)
@@ -29,3 +30,4 @@ This repository is intended to house my personal R environment with the goal of 
 * [testthat](http://cran.r-project.org/web/packages/testthat/index.html)
 * [tidyr](http://cran.r-project.org/web/packages/tidyr/index.html)
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html)
+* [yaml](http://cran.r-project.org/web/packages/yaml/index.html)

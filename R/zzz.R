@@ -9,9 +9,4 @@
         devtools::install_github('briandconnelly/ggplot2bdc')
     }
 
-    if (!requireNamespace('rmarkdown', quietly=TRUE))
-    {
-        message('ggplot2bdc not present. Installing...')
-        devtools::install_github('rstudio/rmarkdown')
-    }
 }

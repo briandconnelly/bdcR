@@ -1,8 +1,8 @@
 Package: bdcR
 Type: Package
 Title: Brian Connelly's R environment
-Version: 0.1.4
-Date: 2015-02-04
+Version: 0.1.5
+Date: 2015-02-11
 Authors@R: c(person(family="Connelly", given="Brian", email="bdc@bconnelly.net",
                     role=c("aut", "cre")))
 Maintainer: Brian Connelly <bdc@bconnelly.net>
@@ -35,6 +35,7 @@ Imports:
     pushoverr,
     RColorBrewer,
     rex,
+    rmarkdown,
     roxygen2,
     stringr,
     testthat,

@@ -1,8 +1,8 @@
 Package: bdcR
 Type: Package
 Title: Brian Connelly's R environment
-Version: 0.1.5
-Date: 2015-02-11
+Version: 0.1.6
+Date: 2015-03-27
 Authors@R: c(person(family="Connelly", given="Brian", email="bdc@bconnelly.net",
                     role=c("aut", "cre")))
 Maintainer: Brian Connelly <bdc@bconnelly.net>

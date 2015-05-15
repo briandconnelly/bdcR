@@ -1,8 +1,8 @@
 Package: bdcR
 Type: Package
 Title: Brian Connelly's R environment
-Version: 0.1.7
-Date: 2015-04-09
+Version: 0.1.8
+Date: 2015-05-14
 Authors@R: c(person(family="Connelly", given="Brian", email="bdc@bconnelly.net",
                     role=c("aut", "cre")))
 Maintainer: Brian Connelly <bdc@bconnelly.net>
@@ -14,7 +14,7 @@ ByteCompile: no
 NeedsCompilation: no
 VignetteBuilder: knitr
 Depends:
-    R (>= 3.0.0)
+    R (>= 3.1.0)
 Imports:
     assertthat,
     beepr,
@@ -28,6 +28,7 @@ Imports:
     igraph,
     jsonlite,
     knitr,
+    lintr,
     lubridate,
     magrittr,
     packrat,
@@ -38,6 +39,7 @@ Imports:
     rex,
     rmarkdown,
     roxygen2,
+    shiny,
     stringr,
     testthat,
     tidyr,

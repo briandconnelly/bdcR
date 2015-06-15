@@ -28,6 +28,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [rex](http://cran.r-project.org/web/packages/rex/index.html)
 * [rmarkdown](http://cran.r-project.org/web/packages/markdown/index.html)
 * [roxygen2](http://cran.r-project.org/web/packages/roxygen2/index.html)
+* [scales](http://cran.r-project.org/web/packages/scales/index.html)
 * [shiny](http://cran.r-project.org/web/packages/shiny/index.html)
 * [stringr](http://cran.r-project.org/web/packages/stringr/index.html)
 * [testthat](http://cran.r-project.org/web/packages/testthat/index.html)

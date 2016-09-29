@@ -10,7 +10,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
 * [ensurer](https://cran.r-project.org/web/packages/ensurer/)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
-* [ggplot2bdc](httpss://github.com/briandconnelly/ggplot2bdc)
+* [ggplot2bdc](https://github.com/briandconnelly/ggplot2bdc)
 * [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html)
 * [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html)
 * [httr](https://cran.r-project.org/web/packages/httr/index.html)

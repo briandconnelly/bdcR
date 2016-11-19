@@ -9,6 +9,7 @@ This repository is intended to house my personal R environment with the goal of 
 * [devtools](https://cran.r-project.org/web/packages/devtools/index.html)
 * [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
 * [ensurer](https://cran.r-project.org/web/packages/ensurer/)
+* [googlesheets](https://cran.r-project.org/web/packages/googlesheets/index.html)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
 * [ggplot2bdc](https://github.com/briandconnelly/ggplot2bdc)
 * [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html)

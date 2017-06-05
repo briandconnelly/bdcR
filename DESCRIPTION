@@ -1,8 +1,8 @@
 Package: bdcR
 Type: Package
 Title: Brian Connelly's R environment
-Version: 0.2.1
-Date: 2016-11-19
+Version: 0.2.2
+Date: 2017-06-05
 Authors@R: c(person(family="Connelly", given="Brian", email="bdc@bconnelly.net",
                     role=c("aut", "cre")))
 Maintainer: Brian Connelly <bdc@bconnelly.net>
@@ -33,6 +33,7 @@ Imports:
     lubridate,
     magrittr,
     memoise,
+    microbenchmark,
     packrat,
     pander,
     pushoverr,
@@ -45,6 +46,7 @@ Imports:
     shiny,
     stringr,
     testthat,
+    tibble,
     tidyr,
     tidyverse,
     xtable,

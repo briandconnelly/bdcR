@@ -1,8 +1,8 @@
 Package: bdcR
 Type: Package
 Title: Brian Connelly's R environment
-Version: 0.2.2
-Date: 2017-06-05
+Version: 0.2.3
+Date: 2017-07-26
 Authors@R: c(person(family="Connelly", given="Brian", email="bdc@bconnelly.net",
                     role=c("aut", "cre")))
 Maintainer: Brian Connelly <bdc@bconnelly.net>
@@ -14,16 +14,16 @@ ByteCompile: no
 NeedsCompilation: no
 VignetteBuilder: knitr
 Depends:
-    R (>= 3.1.0)
+    R (>= 3.4.0)
 Imports:
     assertthat,
-    beepr,
+    broom,
     devtools,
+    dbplyr,
     dplyr,
     ensurer,
     googlesheets,
     ggplot2,
-    ggvis,
     Hmisc,
     httr,
     igraph,
@@ -36,6 +36,7 @@ Imports:
     microbenchmark,
     packrat,
     pander,
+    purrr,
     pushoverr,
     RColorBrewer,
     readr,
@@ -45,6 +46,7 @@ Imports:
     roxygen2,
     scales,
     shiny,
+    stringi,
     stringr,
     testthat,
     tibble,
